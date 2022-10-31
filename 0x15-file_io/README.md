@@ -1,11 +1,11 @@
 # File I/O
 
-Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about how to handle files (open, close, read and write), file descriptors, system calls and file permissions in **C language**.
+Project done during **Full Stack Software Engineering studies** at **ALX School**. It aims to learn about how to handle files (open, close, read and write), file descriptors, system calls and file permissions in **C programming language**.
 
 ## Technologies
-* C files are compiled using `gcc 4.8.4`
+* C files are compiled using `gcc -Wall -Werror -Wextra -pedantic -std=gnu89`
 * C files are written according to the C90 standard
-* Tested on Ubuntu 14.04 LTS
+* Tested on Ubuntu 20.04 LTS
 
 ## Files
 All of the following files are programs written in C:
